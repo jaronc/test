@@ -11,7 +11,7 @@ int main()
   cout << "Enter second number: ";
   cin >> second;
   
-  cout << "added: " << add(first, second) << endl;
+  cout << "addddddder: " << add(first, second) << endl;
   cout << "subtracted: " << sub(first, second) << endl;
   return 0;
 }

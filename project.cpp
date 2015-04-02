@@ -12,5 +12,6 @@ int main()
   cin >> second;
   
   cout << "added: " << add(first, second) << endl;
+  cout << "subtracted: " << sub(first, second) << endl;
   return 0;
 }
